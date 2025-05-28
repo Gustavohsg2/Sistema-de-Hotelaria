@@ -18,7 +18,7 @@ Este projeto em Java simula um sistema simples de cadastro de hóspedes, com est
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio/Projeto2
-  ´´´
+
 2. Compile o projeto:
    ```bash
    javac -d bin src/App.java src/model/Hospede.java
@@ -26,5 +26,4 @@ Este projeto em Java simula um sistema simples de cadastro de hóspedes, com est
 3. Execute a aplicação:
    ```bash
    java -cp bin App
-   
-
+   ```
