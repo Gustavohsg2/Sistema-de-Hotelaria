@@ -20,11 +20,11 @@ Este projeto em Java simula um sistema simples de cadastro de hóspedes, com est
    cd seu-repositorio/Projeto2
   ´´´
 2. Compile o projeto:
-```bash
+   ```bash
    javac -d bin src/App.java src/model/Hospede.java
-```
+   ```
 3. Execute a aplicação:
    ```bash
    java -cp bin App
-  ´´´
+   
 
